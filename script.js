@@ -76,7 +76,7 @@ const projects = [
     desc: "Responsive personal portfolio showcasing projects, skills, education, and contact info with smooth navigation and downloadable resume.",
     tech: ["HTML","CSS","JavaScript"],
     img: "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?w=800&q=80",
-    github: "https://github.com/PavaniReddy-26",
+    github: "https://github.com/PavaniReddy-26/InternSpark_Portfolio",
   }
 ];
 
