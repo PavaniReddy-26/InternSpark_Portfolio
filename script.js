@@ -77,6 +77,7 @@ const projects = [
     tech: ["HTML","CSS","JavaScript"],
     img: "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?w=800&q=80",
     github: "https://github.com/PavaniReddy-26/InternSpark_Portfolio",
+    demo: "https://pavanireddy-26.github.io/InternSpark_Portfolio/"
   }
 ];
 
